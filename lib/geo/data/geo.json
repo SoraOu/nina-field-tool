@@ -1,0 +1,20 @@
+{
+  "regions": [
+    { "id": 17, "name": "MIMAROPA" }
+  ],
+  "provinces": [
+    { "id": 1740, "region_id": 17, "name": "Marinduque" },
+    { "id": 1741, "region_id": 17, "name": "Occidental Mindoro" },
+    { "id": 1742, "region_id": 17, "name": "Oriental Mindoro" },
+    { "id": 1743, "region_id": 17, "name": "Palawan" },
+    { "id": 1744, "region_id": 17, "name": "Romblon" }
+  ],
+  "municipalities": [
+    { "id": 174001, "province_id": 1740, "name": "Boac" },
+    { "id": 174002, "province_id": 1740, "name": "Buenavista" },
+    { "id": 174003, "province_id": 1740, "name": "Gasan" },
+    { "id": 174004, "province_id": 1740, "name": "Mogpog" },
+    { "id": 174005, "province_id": 1740, "name": "Santa Cruz" },
+    { "id": 174006, "province_id": 1740, "name": "Torrijos" }
+  ]
+}

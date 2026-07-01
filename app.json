@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "NINA Field Tool",
+    "slug": "nina-field-tool",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D7A5F"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D7A5F"
+      },
+      "package": "ph.gov.mogpog.nina"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "scheme": "nina-field-tool",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "113e79c1-9ae3-4a94-bdf0-ce22af5f09e5"
+      }
+    }
+  }
+}
